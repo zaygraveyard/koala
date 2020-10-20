@@ -60,7 +60,7 @@
     }
   },
   "dependencies": {
-    "adm-zip": "0.4.7",
+    "adm-zip": "0.4.11",
     "autoprefixer": "^7.1.6",
     "clean-css": "^4.1.9",
     "coffee-script": "^1.12.7",
